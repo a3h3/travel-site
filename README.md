@@ -1,4 +1,4 @@
-# project4
+# project
 travel site
 
 ![phon_travel](https://user-images.githubusercontent.com/99041969/235650404-a935bd7e-1714-41a3-b7e8-5e78228fe43f.jpg)
